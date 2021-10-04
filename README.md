@@ -3,7 +3,7 @@ My first GitHub repository
 
 Hi fellow bipedal animals,
 
-I am Kevin, an Earth Scientist who learned to code in Fortran during an introduction to coding class as part of my Bachelor. 
+I am Kevin, an Earth Scientist who learned to code in Fortran during an "Introduction to coding" class as part of my Bachelor. 
 I enjoyed it so much that I started following every class related to coding availible in my Bachelors and Masters.
 During this period I also came into contact with Python and Mathlab. 
 
