@@ -1,5 +1,5 @@
 # hello-world
-My first GitHub repository
+Newby repository
 
 Hi fellow bipedal animals,
 
